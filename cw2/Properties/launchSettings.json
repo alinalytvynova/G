@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "newProfile1": {
+      "commandName": "Executable",
+      "commandLineArgs": "\"C:\\Users\\s18916\\Desktop\\dane.txt\" \"C:\\Users\\s18916\\Desktop\\XMLFile1.xml\" \"xml\""
+    }
+  }
+}
